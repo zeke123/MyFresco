@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity
 
     private void initView()
     {
+
         //提取变量的快捷键是:option+command+f
         image_view1 = (SimpleDraweeView) findViewById(R.id.image_view1);
         image_view2 = (SimpleDraweeView) findViewById(R.id.image_view2);
